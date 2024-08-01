@@ -1,2 +1,3 @@
 Here we will explore a problem that's been affecting a local zoo where the caretakers who manage the penguin habitats are having trouble keeping their population adequately fed. They're hoping to find out if certain features of the birds are related to body mass to better manage their feeding routines. 
 We have used the penguins dataset from the pandas library. The dataset includes structural measurements of different penguins, such as bill length and body mass.
+We will creates plots to check which variables are linearly related, create a linear regression model, check model assumptions and evaluate the model results.
