@@ -1,1 +1,2 @@
-# Simple-Linear-Regression
+Here we will explore a problem that's been affecting a local zoo where the caretakers who manage the penguin habitats are having trouble keeping their population adequately fed. They're hoping to find out if certain features of the birds are related to body mass to better manage their feeding routines. 
+We have used the penguins dataset from the pandas library. The dataset includes structural measurements of different penguins, such as bill length and body mass.
